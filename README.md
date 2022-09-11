@@ -6,8 +6,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesilvadev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<center>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ade-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ade-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,6 +23,7 @@
   <img align="center" alt="Ade-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Ade-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
-
-  </center>
-          
+ 
+<div>
+<a href="https://www.linkedin.com/in/adesilvati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
