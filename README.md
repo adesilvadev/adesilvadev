@@ -1,4 +1,3 @@
-##
 ## Welcome to my profile ;)
 
 <div align="center">
