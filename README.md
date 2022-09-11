@@ -7,7 +7,6 @@
 </div>
   
 ##
-  
 <div style="display: inline_block"><br>
   <p >Perfil de Carreira</p>
   <img align="center" alt="Ade-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
