@@ -1,5 +1,15 @@
 ## Welcome to my profile ;)
 
+<p>
+Sou Desenvolvedor de Software estudioso com experiência em desenvolvimento de soluções, integração, persistência de aplicação, persistência de dados, modelo de dados, modelo de objetos e sustentação de grandes operações em sistemas na área hospitalar. Estudioso, atualizado, focado em boas entregas e atento às melhores práticas da profissão. 
+
+Minha trajetória conta com atuação em Levantamento de Requisitos, Implantação, Parametrização, Regras de Negócios, Desenvolvimento Java, Desenvolvimento PL-SQL, Bancos de Dados de grande porte (SQL server, Oracle e PostGreSQL), Sistemas de Gestão de Saúde (ERP - Tasy PHILIPS, MedicineOne, Soul MV e eSUS), Treinamento/Capacitação de Profissionais, Suporte e Consultoria de TI no Rio de Janeiro e em outros Estados do Brasil.
+
+Em cada passagem penso ter deixado boas entregas, boa impressão e incentivo aos profissionais de cada segmento a fazer o melhor (Alguns destes narrados em minhas recomendações no próprio LINKEDIN).
+
+Cumprimentos ;)
+</p>
+
 <div align="center">
   <a href="https://github.com/adesilvadev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adesilvadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
