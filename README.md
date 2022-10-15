@@ -1,8 +1,5 @@
 ## Bem vindo!
 
-<p>
-Sou Desenvolvedor de Software estudioso com experiência em desenvolvimento de soluções, integração, persistência de aplicação, persistência de dados, modelo de dados, modelo de objetos e sustentação de grandes operações em sistemas na área hospitalar. Estudioso, atualizado, focado em boas entregas e atento às melhores práticas da profissão. 
-</p>
 
 <div align="center">
   <a href="https://github.com/adesilvadev">
