@@ -1,4 +1,4 @@
-## Bem vindo!
+## Seja bem vindo!
 
 
 <div align="center">
