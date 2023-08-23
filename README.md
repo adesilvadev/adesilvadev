@@ -9,8 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adesilvadev&layout=compact&langs_count=7&theme=Dark"/>
 </div>
 
-![Github Gist stars](https://img.shields.io/github/gist/stars/:gistId)
-
 
 <p > </p>
 <p > Formação </p>
