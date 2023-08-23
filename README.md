@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Ciao+va+tutto+bene?;+Caspita!+È+un+picere+vederti+qui.;+Segui+e+lascia+un+messaggio...;+Ho+laciato+un+contributo...;+Connettiti+con+me+su+Linkedin...;+Cosi+possiamo+creare+una+bella+rete:%29)](https://git.io/typing-svg)
 
-##
 
 <div align="center">
   <a href="https://github.com/adesilvadev">
