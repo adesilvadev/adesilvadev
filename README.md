@@ -7,7 +7,7 @@
 </div>
 
 <p > </p>
-<p >Formação</p>
+## Formação
 
     > Graduado em Análise e Desenvolvimento de Sistemas;
 
