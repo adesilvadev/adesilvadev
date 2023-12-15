@@ -10,19 +10,27 @@
 <p > </p>
 <p > Formação </p>
 
-    > Graduado em Análise e Desenvolvimento de Sistemas;
 
-    > Pós-graduado em engenharia de Software;
+Sou Desenvolvedor de Software (atuando da MV Informatica Nordeste), 
 
-    > Pós-graduando em Arquitetura de Software;
+>> Graduado em Análise e Desenvolvimento de Sistemas;
+>> Pós-Graduado em Engenharia de Software;
+>> Pós Graduado em Arquitetura de Software;
+>> E atualmente cursando MBA em Gerenciamento de Projetos de TI;
+>> Certificação Scrum Fondation;
+>> Inglês.
 
-    > Formação em Desenvolvimento Corporativo Java;
+Possuo 10 anos de experiência em desenvolvimento de soluções , integração de sistemas, persistência de aplicação, persistência de dados, modelo de dados, modelo de objetos e sustentação de grandes operações em sistemas na área hospitalar. 
 
-    > Certificação Scrum;
+Me descobri realizado, prestando Mentoria para profissionais iniciantes na carreira de Desenvolvimento Software e afins...
 
-    > Inglês;
+Sigo estudioso, atualizado, focado em boas entregas e atento às melhores práticas da profissão. 
 
-    > Italiano (estudando).
+Minha trajetória conta com atuação em Desenvolvimento Java, Desenvolvimento PL-SQL, Bancos de Dados de grande porte (SQL server, Oracle e PostGreSQL), Levantamento de Requisitos, Implantação, Parametrização, Regras de Negócios, Sistemas de Gestão de Saúde (ERP - Tasy PHILIPS, MedicineOne, Soul MV e eSUS), Treinamento/Capacitação de Profissionais, Suporte e Consultoria de TI no Rio de Janeiro e em outros Estados do Brasil.
+
+Em cada passagem penso ter deixado boas entregas, boa impressão e incentivo aos profissionais de cada segmento a fazer o melhor (Alguns destes narrados em minhas recomendações no próprio LINKEDIN).
+
+Cumprimentos ;)
 
 ##
 <p > </p>
