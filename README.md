@@ -18,8 +18,7 @@ Sou Desenvolvedor de Software (atuando da MV Informatica Nordeste),
 - Pós-Graduado em Engenharia de Software;
 - Pós Graduado em Arquitetura de Software;
 - Certificação Scrum Fondation;
-- Inglês;
-- E atualmente cursando MBA em Gerenciamento de Projetos de TI.
+- Inglês.
 
 Possuo 10 anos de experiência em desenvolvimento de soluções , integração de sistemas, persistência de aplicação, persistência de dados, modelo de dados, modelo de objetos e sustentação de grandes operações em sistemas na área hospitalar. 
 
