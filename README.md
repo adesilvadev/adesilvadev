@@ -11,7 +11,7 @@
 <p > Formação </p>
 
 
-Sou Desenvolvedor de Software (atuando da MV Informatica Nordeste), 
+Sou Desenvolvedor de Software Especialista (atuando da MV Informatica Nordeste), 
 
 - Graduado em Análise e Desenvolvimento de Sistemas;
 - MBA - Gerenciamento de Projetos de TI;
